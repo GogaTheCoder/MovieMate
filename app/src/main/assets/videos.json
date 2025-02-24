@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Video 1",
+    "thumbnailUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/b1d364b2-01ab-47a9-9edc-b20160ce9fac/360",
+    "duration": "16:12",
+    "videoUrl": "https://www.youtube.com/watch?v=iiXBwXlYuv8"
+  },
+  {
+    "id": "2",
+    "title": "Video 2",
+    "thumbnailUrl": "https://i.scdn.co/image/aa32d6d4ca2467974403518dd3ebfe8831c5ced1",
+    "duration": "4:30",
+    "videoUrl": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+  },
+  {
+    "id": "3",
+    "title": "Video 3",
+    "thumbnailUrl": "https://yt3.googleusercontent.com/Zilw1sqiUaEQVP1FyexVpTM1p716ofOb9UmU7rtMUKW943wp6GA6-gKxe8mQIS5_6c9tCc-4=s900-c-k-c0x00ffffff-no-rj",
+    "duration": "2:54",
+    "videoUrl": "https://www.youtube.com/watch?v=sCvh80kqFZg"
+  },
+  {
+    "id": "4",
+    "title": "Video 4",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Meschian_2006_November_2.jpg",
+    "duration": "6:34",
+    "videoUrl": "https://www.youtube.com/watch?v=ekvC8zApYY0"
+  },
+  {
+    "id": "5",
+    "title": "Video 5",
+    "thumbnailUrl": "https://cdn.prod.website-files.com/5e261bc81db8f19fa664899d/656e30f420dc2f25b0f41707_vJAsitb0Nh67FpxQPfqJqAddCxZ447tZfXgf5JeLtrWEI47HB-out-0.webp",
+    "duration": "5:05",
+    "videoUrl": "https://www.youtube.com/watch?v=zSkFFW--Ma0"
+  }
+]
